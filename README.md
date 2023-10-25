@@ -1,4 +1,11 @@
 # BankAccountManager
+
+## Video Tutorial
+
+Check out this video tutorial on how to use this bank account management system:
+
+[Watch the Video](https://drive.google.com/file/d/1bhO4TMEcvZsKnMCc6OlWPY6hs6A1hlSZ/view?usp=share_link)
+
 ### Introduction
 This repository contains a Python project for a simple yet comprehensive bank account management system. It allows users to create bank accounts, deposit and withdraw funds, and check account balances. The code is designed to be user-friendly and provides data validation to ensure accurate transactions. Whether you're learning Python or looking for a basic banking system for personal or educational purposes, this project can be a useful reference.
 
@@ -20,8 +27,4 @@ Define the required classes Implement the user interface Implement the logic Tes
 ### What are the basic requirements for developing a Bank Management System project in Python?
 The basic requirements for developing a Bank Management System project in Python include defining classes, implementing the logic, creating a user interface, and testing the system.
 
-## Video Tutorial
 
-Check out this video tutorial on how to use this bank account management system:
-
-[Watch the Video](https://drive.google.com/file/d/1bhO4TMEcvZsKnMCc6OlWPY6hs6A1hlSZ/view?usp=share_link)
