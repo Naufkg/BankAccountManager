@@ -42,10 +42,6 @@ def create_account():
                 print(f"Account {account_number} created with a balance of ${balance}.")
                 break
 
-BankAccount.user_credentials = {
-    "user1": "password1",
-    "user2": "password2",
-}
 def login():
     global logged_in
     if logged_in:
@@ -129,4 +125,8 @@ def main():
 
 if __name__ == "__main__":
     logged_in = False
+    BankAccount.user_credentials = {
+    "Nauf1": "password1",
+    "Nauf2": "password2",
+}
     main()
