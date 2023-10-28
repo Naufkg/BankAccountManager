@@ -27,4 +27,6 @@ Define the required classes Implement the user interface Implement the logic Tes
 ### What are the basic requirements for developing a Bank Management System project in Python?
 The basic requirements for developing a Bank Management System project in Python include defining classes, implementing the logic, creating a user interface, and testing the system.
 
+### Banking_system_project:
+Is another method to replicate a banking sysytem where we include two more functions login and logout and a user_credential dictionary.
 
